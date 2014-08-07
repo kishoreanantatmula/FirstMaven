@@ -31,6 +31,8 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
+    
+    // Maven Test
     public void testApp()
     {
         assertTrue( true );
